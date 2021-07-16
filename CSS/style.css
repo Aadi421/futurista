@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#template-section{
+    background-image: url('https://www.groupfuturista.com/FOCA2.0/assets/images/slider/slide-5.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 120vh;
+}
+#navbar{
+    width: 100vw;
+    height:70px;
+    
+
+}
+#navbar img{
+    width:200px;
+    height:50px;
+}
+
+/* information section */
+#Overview-pic-div div{
+    height:250px;
+    width: 260px;
+    
+}
+/* SummitHighlights */
+#SummitHighlights{
+    width: 100vw;
+    min-height:90vh;
+    background-image: url('https://www.groupfuturista.com/FOCA2.0/assets/images/upload-1585120567-stats-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#HighlightsGrid>div{
+    width: 200px;
+    height: 300px;
+    /* background-color: red; */
+    margin: 40px;
+}
+
+#DiscussionPointsbolck>div{
+    width: 270px;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px;
+}
+/* #DiscussionPointsbolck>div:hover{
+    background-color: black;
+} */
